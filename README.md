@@ -41,10 +41,7 @@ With increasing digital device usage, understanding its impact on health and lif
 
 ## 🛠️ Technologies Used
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
+
 - Microsoft Excel
 - Google Forms
 - Google Sheets
@@ -93,21 +90,11 @@ Screen-Time-Analysis
 ├── data/
 │   └── screen_time_dataset.csv
 │
-├── notebook/
-│   └── ScreenTimeEDA.ipynb
-│
 ├── report/
 │   └── Screen_Time_Analysis_Report.pdf
 │
-├── images/
-│   ├── dashboard.png
-│   ├── bmi_analysis.png
-│   ├── sleep_analysis.png
-│   └── screen_time_distribution.png
-│
 ├── README.md
-│
-└── requirements.txt
+
 ```
 
 ---
